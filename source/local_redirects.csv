@@ -1,0 +1,11 @@
+URL с кодом ответа 404,Требуемый код ответа,"Страница, куда перенаправить"
+http://proximamulti.local/produkty-ru,301,http://proximamulti.local/ua/ua/category/producty/
+http://proximamulti.local/ua/ua/category/producty/syndicative-base-ua-ua,301,http://proximamulti.local/products/
+http://proximamulti.local/produkty-en,301,http://proximamulti.local/products/
+http://proximamulti.local/producty-en,301,http://proximamulti.local/products/
+http://proximamulti.local/producty-ru,301,http://proximamulti.local/ua/ua/category/producty/
+http://proximamulti.local/by/ru,301,http://proximamulti.local/ua/ua/
+http://proximamulti.local/novini-en,301,http://proximamulti.local/ua/en/category/news/
+http://proximamulti.local/novini-ru,301,http://proximamulti.local/ua/ua/category/novini/
+http://proximamulti.local/produkty-ua,301,http://proximamulti.local/ua/ua/category/novini/
+http://proximamulti.local/producty-ua,301,http://proximamulti.local/ua/ua/category/novini/
